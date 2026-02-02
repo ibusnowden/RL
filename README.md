@@ -1,4 +1,4 @@
-# Ludic - an LLM-RL library for the era of experience
+# Ludic - an LLM-RL library for the era of experience  ***here -> [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ibusnowden/RL)***
 
 This repo is the result of an ongoing frustration I have had for months with the state of LLM-RL. It is essentially what I wanted during a research project earlier this year, but did not have – a codebase to post-train LLMs with RL built principally with **agentic behavior** in mind, not single-step LLM reasoning. While there are, as of Dec. 2025, many other great codebases for this purpose, I still wanted to share what I have worked on in the last few months, because I believe it to be conceptually quite unique.
 
